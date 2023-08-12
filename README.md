@@ -17,3 +17,7 @@ Practice05-inheritance from abstract class- class PrintMyBook is inherited from 
 ___________________________________________________________
 Practice06-Comparable vs Comparator
 ___________________________________________________________
+Practice07- 
+*remove dublicates integer value from list 
+*common strings from two lists
+*reverse integer value in list
