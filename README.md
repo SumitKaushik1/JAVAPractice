@@ -18,8 +18,14 @@ ___________________________________________________________
 Practice06-Comparable vs Comparator
 ___________________________________________________________
 Practice07- 
+
 *remove dublicates integer value from list 
 
 *common strings from two lists
 
 *reverse integer value in list
+___________________________________________________________
+Practice08--
+*count occurance of each string in arraylist using map
+
+*Remove all occurance of given value from arraylist using map
