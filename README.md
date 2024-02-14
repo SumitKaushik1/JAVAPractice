@@ -25,7 +25,8 @@ Practice07-
 
 ● reverse integer value in list
 ___________________________________________________________
-Practice08--
+Practice08--  
+
 ● count occurance of each string in arraylist using map
 
 ● Remove all occurance of given value from arraylist using map
@@ -37,10 +38,10 @@ Practice09--
 
 ● return a set of unique elements from a list of integers
 
-*union of two sets  of integers 
+● union of two sets  of integers 
 
-*intersection of two sets of strings
+● intersection of two sets of strings
 
-*distinct characters in a string 
+● distinct characters in a string 
 
-* check if the first set is a subset of the second set
+● check if the first set is a subset of the second set
