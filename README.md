@@ -1,6 +1,6 @@
 # JAVAPractice
 - Testing Academy java practice question
-● Learning core java with questons
+- Learning core java with questons
 
 ● Practice01-Hello world
 ___________________________________________________________
