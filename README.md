@@ -47,4 +47,3 @@ Practice09--
 
 ● check if the first set is a subset of the second set
 *
-<br>
